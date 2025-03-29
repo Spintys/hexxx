@@ -8,6 +8,10 @@ pluginManagement {
         maven {
             url = 'https://maven.parchmentmc.org'
         }
+        maven {
+            name = 'ModdingX Maven'
+            url = 'https://maven.moddingx.org/'
+        }
     }
 }
 
