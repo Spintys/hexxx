@@ -70,17 +70,11 @@ repositories {
 dependencies {
     minecraft 'net.minecraftforge:forge:1.20.1-47.1.0'
 
-    // Hex Casting (убрал маппинг)
     implementation fg.deobf('at.petra-k:hexcasting-forge:1.20.1-0.11.0')
 
-    // Kotlin for Forge (исправил репозиторий)
     implementation fg.deobf('thedarkcolour:kotlinforforge:4.0.0')
 
-    // Patchouli (исправил зависимость)
     implementation fg.deobf('vazkii.patchouli:Patchouli:1.20.1-77')
-
-    // Добавляем зависимости Hex Casting
-    implementation fg.deobf('at.petra-k:hexcasting-common:1.20.1-0.11.0')
 }
 
 
