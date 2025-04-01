@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.surya.tutorialmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.tutorialmod.refmap.json",
+  "mixins": [
+    "PlayerMiningMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+} 
