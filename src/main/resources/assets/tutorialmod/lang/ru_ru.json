@@ -1,0 +1,14 @@
+{
+  "message.tutorialmod.exp_gain": "+%d опыта",
+  "message.tutorialmod.level_up": "Уровень повышен! Уровень %d",
+  "message.tutorialmod.points_available": "У вас есть %d очки навыков",
+  "message.tutorialmod.neural_chip_required": "Требуется нейронный чип для использования этой функции",
+  "message.tutorialmod.neural_chip_implanted": "Нейронный чип успешно вживлен! Система очков активирована",
+  "message.tutorialmod.neural_chip_already_implanted": "У вас уже вживлен нейронный чип",
+  
+  "item.tutorialmod.neural_chip": "Нейронный чип-имплант",
+  "tooltip.tutorialmod.neural_chip": "Кибернетическое улучшение для вашего мозга",
+  "tooltip.tutorialmod.neural_chip_usage": "Нажмите правую кнопку мыши, чтобы вживить и активировать систему очков",
+  
+  "itemGroup.tutorialmod.cybernetics": "Кибернетические улучшения"
+} 

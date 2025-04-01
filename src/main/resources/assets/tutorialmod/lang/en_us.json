@@ -1,0 +1,14 @@
+{
+  "message.tutorialmod.exp_gain": "+%d XP",
+  "message.tutorialmod.level_up": "Level Up! Level %d",
+  "message.tutorialmod.points_available": "You have %d skill points available",
+  "message.tutorialmod.neural_chip_required": "Neural chip implant required to use this feature",
+  "message.tutorialmod.neural_chip_implanted": "Neural chip successfully implanted! Points system activated",
+  "message.tutorialmod.neural_chip_already_implanted": "You already have a neural chip implanted",
+  
+  "item.tutorialmod.neural_chip": "Neural Chip Implant",
+  "tooltip.tutorialmod.neural_chip": "A cybernetic enhancement for your brain",
+  "tooltip.tutorialmod.neural_chip_usage": "Right-click to implant and activate points system",
+  
+  "itemGroup.tutorialmod.cybernetics": "Cybernetic Enhancements"
+} 
